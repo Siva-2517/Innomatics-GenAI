@@ -1,1 +1,6 @@
 venv/
+results/
+
+test.txt
+train.txt
+valid.txt
